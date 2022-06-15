@@ -1,5 +1,4 @@
-from tkinter import TRUE
-from turtle import bgcolor, fillcolor
+
 import qrcode as qr
 from PIL import Image
 qr = qr.QRCode(version=1,
